@@ -1,24 +1,15 @@
 # vue-counter-exam
 
-## Project setup
+## Project Description
+Setting up a counter composable with increment, decrement, reset and set value function. <br />Vuex was used for state management
+
+### Dependencies installed
 ```
-npm install
+npm install vue router@4
+```
+```
+npm install vuex
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live Link for the project
+https://martha-counter-app.netlify.app/
